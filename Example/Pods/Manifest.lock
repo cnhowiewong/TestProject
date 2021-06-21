@@ -5,7 +5,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Kiwi (3.0.0)
-  - TestProject (0.1.2)
+  - TestProject (0.1.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
-  TestProject: 16c8f36523b41af826cf9697d43ed30d695f4a96
+  TestProject: 88a939f76d7f36f0b925375f40e31869e4ee810d
 
 PODFILE CHECKSUM: c9d4c80c02fc4348ac2c6a47a3d8264c9d6b4edd
 

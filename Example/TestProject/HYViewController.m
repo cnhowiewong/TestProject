@@ -7,7 +7,6 @@
 //
 
 #import "HYViewController.h"
-#import <TestProject/TestPerson.h>
 
 @interface HYViewController ()
 

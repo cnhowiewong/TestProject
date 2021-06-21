@@ -10,7 +10,6 @@
 #endif
 #endif
 
-#import "TestPerson.h"
 
 FOUNDATION_EXPORT double TestProjectVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestProjectVersionString[];
