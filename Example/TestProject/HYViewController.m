@@ -7,6 +7,7 @@
 //
 
 #import "HYViewController.h"
+#import <TestProject/TestPerson.h>
 
 @interface HYViewController ()
 
@@ -17,6 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
+    TestPerson * person = [TestPerson new];
+    [person foo];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
