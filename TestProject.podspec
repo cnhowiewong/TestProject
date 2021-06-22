@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'howie0307why@163.com' => 'wanghouyi@hupu.com' }
-  s.source           = { :git => 'https://github.com/cnhowiewong/TestProject.git', :tag => s.version.to_s }
+  s.source = { :http => "https://github.com/cnhowiewong/frameworks/#{s.name}/#{s.version}/#{s.name}.framework.zip" }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
